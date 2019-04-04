@@ -3,7 +3,7 @@ def speak_to_grandma(phrase)
   if !phrase.upcase
     puts "HUH?! SPEAK UP, SONNY!"
   else 
-    puts ""
+    puts "NO, NOT SINCE 1938!"
   
 end 
   
